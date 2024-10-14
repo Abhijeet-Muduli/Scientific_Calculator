@@ -1,7 +1,7 @@
 # Java Scientific Calc Server (Group 3)
 
 ## Members: 
-1. Biswaranjan Bal
+1. Abhijeet Muduli
 2. Ansuman Patra
 3. Nilesh Kumar Sahoo
 4. Pragyanshu Sekhar Sahoo
