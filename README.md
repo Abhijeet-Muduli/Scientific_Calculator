@@ -2,10 +2,10 @@
 
 ## Members: 
 1. Abhijeet Muduli
-2. Ansuman Patra
-3. Nilesh Kumar Sahoo
-4. Pragyanshu Sekhar Sahoo
-5. Priyansu Sekhar Sahu
+2. Anish Mohanty
+3. Abhijit Nanda
+4. Shruti Mohanty
+5. Biswaranjan Mohanty
 
 ## Objective:
 Develop console based application for a Scientific calculator using client-server architecture in java.
